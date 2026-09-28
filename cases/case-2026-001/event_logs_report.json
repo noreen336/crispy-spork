@@ -1,0 +1,7 @@
+[
+    {
+        "log_name": "System",
+        "status": "Failed",
+        "error": "Failed to export log System.\nThe file exists."
+    }
+]

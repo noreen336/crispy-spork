@@ -1,0 +1,15 @@
+{
+    "case_id": "case-2026-001",
+    "output_root": "C:/DFIR-Lab/cases",
+    "hash_algorithm": "sha256",
+    "collect": {
+        "system_info": true,
+        "filesystem_paths": [
+            "C:/DFIR-Lab/LabEvidence"
+        ],
+        "event_logs": [
+            "System"
+        ],
+        "browser_history": true
+    }
+}
