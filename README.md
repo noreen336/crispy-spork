@@ -1,4 +1,5 @@
-Windows Forensic Evidence Collector (DFIR Tool)
+Windows Forensic Evidence Collector (DFIR Tool):
+
 A modular Python-based tool designed for Digital Forensics and Incident Response (DFIR) and digital investigation analysts to efficiently collect, analyze, and preserve critical Windows system artifacts.
 
 Features
@@ -31,5 +32,6 @@ Run the collector:
 
 Bash
 python src/main.py
+
 License
 This project is open-source and protected under the MIT License.
